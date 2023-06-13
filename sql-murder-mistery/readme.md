@@ -3,3 +3,5 @@
 ## Can you find out whodunnit?
 
 https://mystery.knightlab.com/walkthrough.html
+
+![schema diagram](schema.png)
